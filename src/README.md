@@ -9,13 +9,13 @@ Windows 11環境において、Bluetooth接続されたXboxコントローラー
 ## 📷 スクリーンショット
 
 ### メイン画面
-![メインウィンドウ](images/BatteryMonitor.png)
+![メインウィンドウ](images/main.png)
 
 ### タスクトレイ常駐時（動的ツールチップ）
-![タスクトレイ](images/常駐化&チップ.png)
+![タスクトレイ](images/tray.png)
 
 ### 通知ポップアップ
-![powershellでの通知](images/通知ポップ.png)
+![powershellでの通知](images/notfication.png)
 ---
 
 ## ✨ 主な機能
